@@ -1,4 +1,4 @@
-# Index Cards — Localhost Version
+# Flash 'em
 
 A locally hosted flashcard application that runs in your web browser. The application uses a lightweight Python HTTP server to provide a localhost address, allowing browser features such as microphone access and speech recognition to work reliably.
 
